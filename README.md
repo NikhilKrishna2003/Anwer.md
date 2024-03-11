@@ -1,4 +1,4 @@
-<b>Q1. Explain the relationship between the "Product" and "Product_Category" entities from the above diagram.<b>
+Q1. Explain the relationship between the "Product" and "Product_Category" entities from the above diagram.
 
 In the SQL script, the relationship between the "Product" and "Product_Category" entities is established through a foreign key constraint.
 
