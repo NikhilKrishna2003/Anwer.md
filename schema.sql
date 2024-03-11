@@ -8,7 +8,7 @@ CREATE TABLE product(
     SKU VARCHAR(50),
     category_id INT,
     inventory_id INT,
-    price DECIMAL(10,3),
+    price DECIMAL(10,2),
     discount_id INT,
     created_at TIMESTAMP,
     modified_at TIMESTAMP,
